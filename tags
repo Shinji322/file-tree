@@ -9,4 +9,13 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+Examples	archive/README.md	/^# Examples$/;"	c
+Examples	audio/README.md	/^# Examples$/;"	c
+Examples	documents/README.md	/^# Examples$/;"	c
+Intention	archive/README.md	/^# Intention$/;"	c
+Intention	audio/README.md	/^# Intention$/;"	c
+Intention	documents/README.md	/^# Intention$/;"	c
+Subfolders	archive/README.md	/^# Subfolders$/;"	c
+Subfolders	audio/README.md	/^# Subfolders$/;"	c
+Subfolders	documents/README.md	/^# Subfolders$/;"	c
 file-tree	README.md	/^# file-tree$/;"	c
