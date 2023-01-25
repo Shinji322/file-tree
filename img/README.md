@@ -1,4 +1,4 @@
-## Content
+## Images
 
 Images may include, but is not limited to:
 

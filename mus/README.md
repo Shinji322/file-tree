@@ -1,3 +1,12 @@
+## Music
+
+### Beets
+
+Generally speaking, you should just use the CLI program: ![beets](https://beets.io/).
+
+
+### Manual
+
 Artist
 	\ Artist - Year - Album [SOURCE - FORMAT - RES] {Catalog/Info}
 		\ Disc#-Track# - TrackTitle

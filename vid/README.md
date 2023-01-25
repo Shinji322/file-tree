@@ -1,4 +1,4 @@
-## Content
+## Videos
 
 *There is a wide range of types:*
 
