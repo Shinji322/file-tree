@@ -62,7 +62,6 @@ Punctuation marks, parentheses, quotation marks, brackets and operators:
 | (vertical bar or pipe)
 ? (question mark)
 * (asterisk)
-- (dashes)
 
 Other, rather technical "characters":
 MultiSpace ("Foo.      Bar   .txt")
@@ -72,7 +71,7 @@ NUL (integer value zero)
 Embedded Returns
 ```
 
-Generally speaking, this is in line with the ![r/DataCurator recommended file tree](https://github.com/roboyoshi/datacurator-filetree.git). However, I believe dashes should also be avoided in file names as well. Some cli programs poorly parse  command line arguments. 
+Generally speaking, this is in line with the ![r/DataCurator recommended file tree](https://github.com/roboyoshi/datacurator-filetree.git). However, you should also consider removing dashes as well. Certain cli programs poorly parse command lin e arguments. It might be useful to avoid dashes and replace them with underscores.
 
 
 
